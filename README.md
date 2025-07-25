@@ -13,7 +13,7 @@
 - 💡Siempre estoy en constante aprendizaje autónomo de tecnologías para mi carrera.
 - 🏓 Me encanta mucho jugar tenis de mesa.
 
-# 💻 Habilidades Tecnológicas:
+## 💻 Habilidades Tecnológicas:
 <img src="https://github.com/user-attachments/assets/3682da8b-f729-45ae-afce-c3093f96a32e" title="Python" alt="Python" width="60" height="60"/>&nbsp;
 <img src="https://github.com/user-attachments/assets/a7eb29d1-b9ea-4ad2-a832-b5547cd2640c" title="Git" alt="Git" width="60" height="60"/>&nbsp;
 <img src="https://github.com/user-attachments/assets/95d5190f-09a2-4cfa-93cf-6875a2587d3f" title="Linux" alt="Linux" width="60" height="60"/>&nbsp;
