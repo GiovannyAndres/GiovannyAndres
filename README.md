@@ -10,25 +10,28 @@
 #### *Algo sobre mí:*
 - 🧰 Tengo habilidades con herramientas de visualización de datos como Power BI, Excel, Tableau, Looker Studio, Matlab y los paquetes de R Plotly, ggplot2 & Shinny.
 - ♞ Me gusta mucho los desafíos de puzzle y jugar ajedrez.
-- 💡Siempre estoy en constante aprendizaje autonomo de técnologias para mi carrera.
+- 💡Siempre estoy en constante aprendizaje autónomo de tecnologías para mi carrera.
 - 🏓 Me encanta mucho jugar tenis de mesa.
 
 # 💻 Habilidades Tecnológicas:
-<img src="https://github.com/user-attachments/assets/c9d68b8e-a65b-4434-b833-4a8f503c5f74" title="Python" alt="Python" width="60" height="60"/>&nbsp;
-<img src="https://github.com/user-attachments/assets/273f4ff9-512b-40de-aabf-729282a81ff7" title="Git" alt="Git" width="60" height="60"/>&nbsp;
-<img src="https://github.com/user-attachments/assets/0480f8ec-a0b9-4349-a2a1-1344b757dc1e" title="Linux" alt="Linux" width="60" height="60"/>&nbsp;
-[![Java](https://img.shields.io/badge/java-%233b4045.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
-[![MySQL](https://img.shields.io/badge/mysql-%2345494f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![HTML5](https://img.shields.io/badge/html5-%234e5358.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
-[![JavaScript](https://img.shields.io/badge/javascript-%23585c62.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![CSS3](https://img.shields.io/badge/css3-%2361666b.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![C++](https://img.shields.io/badge/c++-%236b6f75.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
-[![Python](https://img.shields.io/badge/python-%2374797f.svg?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
-[![Firebase](https://img.shields.io/badge/firebase-%237e8288.svg?style=for-the-badge&logo=firebase)](https://firebase.google.com/)
-[![Notion](https://img.shields.io/badge/Notion-%23878c92.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/)
-[![Postman](https://img.shields.io/badge/Postman-%2391959c.svg?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
-[![R](https://img.shields.io/badge/R-%239a9faa.svg?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
-[![MATLAB](https://img.shields.io/badge/MATLAB-%23a4a8af.svg?style=for-the-badge&logo=matlab&logoColor=white)](https://la.mathworks.com/products/matlab.html)
-[![Power BI](https://img.shields.io/badge/Power%20BI-%23adb2b9.svg?style=for-the-badge&logo=power%20bi&logoColor=black)](https://www.microsoft.com/es-es/power-platform/products/power-bi)
-[![Excel](https://img.shields.io/badge/Excel-%23b7bbc2.svg?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/es-co/microsoft-365/excel)
-[![Jupyter](https://img.shields.io/badge/Jupyter-%23c0c5cc.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
+<img src="https://github.com/user-attachments/assets/3682da8b-f729-45ae-afce-c3093f96a32e" title="Python" alt="Python" width="60" height="60"/>&nbsp;
+<img src="https://github.com/user-attachments/assets/a7eb29d1-b9ea-4ad2-a832-b5547cd2640c" title="Git" alt="Git" width="60" height="60"/>&nbsp;
+<img src="https://github.com/user-attachments/assets/95d5190f-09a2-4cfa-93cf-6875a2587d3f" title="Linux" alt="Linux" width="60" height="60"/>&nbsp;
+<img src="https://github.com/user-attachments/assets/30959da9-2e50-4ec4-8083-51c163d4af87" title="Java" alt="Java" width="60" height="60"/>&nbsp;
+<img src="https://github.com/user-attachments/assets/a05d1af3-8207-4282-9c05-ad53a8e2a289" title="SQL" alt="SQL" width="60" height="60"/>&nbsp;
+<img src="https://github.com/user-attachments/assets/c18adbf8-2d07-4797-97b0-7cc7effdca15" title="Html5" alt="Html5" width="60" height="60"/>&nbsp;
+<img src="https://github.com/user-attachments/assets/c362ee9d-4687-4d75-a304-bfdd50188445" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
+<img src="https://github.com/user-attachments/assets/e5040d23-d7ea-45b5-8cd9-709a8a697d04" title="CSS" alt="CSS" width="60" height="60"/>&nbsp;
+<img src="https://github.com/user-attachments/assets/5980b543-cda4-4db1-ab0e-832aea432a3a" title="C++" alt="C++" width="60" height="60"/>&nbsp;
+<img src="https://github.com/user-attachments/assets/47d8eb97-2d78-4f9a-b25b-ce35ecda3f11" title="FireBase" alt="FireBase" width="60" height="60"/>&nbsp;
+<img src="https://github.com/user-attachments/assets/479b9dad-6633-4206-8225-0b22c93325ce" title="Notion" alt="Notion" width="60" height="60"/>&nbsp;
+<img src="https://github.com/user-attachments/assets/2108dab5-dfdb-4e0d-a9a4-0c6f4e218d3f" title="Postman" alt="Postman" width="60" height="60"/>&nbsp;
+<img src="https://github.com/user-attachments/assets/d9d375ee-ba1a-45f6-b510-7d2f30e1e98d" title="R" alt="R" width="60" height="60"/>&nbsp;
+<img src="https://github.com/user-attachments/assets/9ca289b0-2c09-41c5-a1ed-71b9ec01c67c" title="MatLab" alt="MatLab" width="60" height="60"/>&nbsp;
+<img src="https://github.com/user-attachments/assets/34d19ebe-5966-468f-bc5e-274485814b7f" title="PowerBI" alt="PowerBI" width="60" height="60"/>&nbsp;
+<img src="https://github.com/user-attachments/assets/8824f726-7fe2-4567-8f7e-ec325f134e78" title="Excel" alt="Excel" width="60" height="60"/>&nbsp;
+<img src="https://github.com/user-attachments/assets/c977d268-e17f-4528-9b6e-51daaf90419d" title="Jupyter Notebook" alt="Jupyter Notebook" width="60" height="60"/>&nbsp;
+
+<p align="center">
+  <img alt="banner" width="1000" height="250" src="https://github.com/user-attachments/assets/edfb01fe-f443-4723-bae1-8da8e9bc89e9">
+</p>
