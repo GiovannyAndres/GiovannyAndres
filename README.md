@@ -1,8 +1,8 @@
-<p align="center">
+<div style="text-align:center; margin:0; padding:0;">
   <img alt="banner" width="1000" height="350" src="https://github.com/user-attachments/assets/44915716-8650-4536-b293-04ec9d3739dc">
-</p>
+  <img alt="banner" width="1000" height="250" src="https://github.com/user-attachments/assets/ea242ad6-4358-44c8-8af7-efac4b027f77">
+</div>
 
-#  ¡Hola! 👋 Soy Gio
 ## Ingeniero de Sistemas y Analista de Datos 📊🔍
 <img align="right" alt="Coding" width="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2kydXJ0em43dXR1aDM4andkNTluaWFqM3kxN2hibnI4eGVweThscyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -31,6 +31,7 @@
 <img src="https://github.com/user-attachments/assets/34d19ebe-5966-468f-bc5e-274485814b7f" title="PowerBI" alt="PowerBI" width="60" height="60"/>&nbsp;
 <img src="https://github.com/user-attachments/assets/8824f726-7fe2-4567-8f7e-ec325f134e78" title="Excel" alt="Excel" width="60" height="60"/>&nbsp;
 <img src="https://github.com/user-attachments/assets/c977d268-e17f-4528-9b6e-51daaf90419d" title="Jupyter Notebook" alt="Jupyter Notebook" width="60" height="60"/>&nbsp;
+<img src="https://github.com/user-attachments/assets/1f3fdaa3-ca83-47df-ac05-2283c83e3ca4" title="Jupyter Notebook" alt="Jupyter Notebook" width="60" height="60"/>&nbsp;
 
 <p align="center">
   <img alt="banner" width="1000" height="250" src="https://github.com/user-attachments/assets/edfb01fe-f443-4723-bae1-8da8e9bc89e9">
