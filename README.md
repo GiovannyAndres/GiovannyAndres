@@ -9,9 +9,9 @@
 ¡Bienvenido a mi perfil de GitHub! Soy analista de datos con destreza formativa profesional en el manejo y limpieza de datos para la visualización de reportes de gran valor.
 #### *Algo sobre mí:*
 - 🧰 Tengo habilidades con herramientas de visualización de datos como Power BI, Excel, Tableau, Looker Studio, Matlab y los paquetes de R Plotly, ggplot2 & Shinny.
-- ♞ Me gusta mucho los desafíos de puzzle y jugar ajedrez.
-- 💡Siempre estoy en constante aprendizaje autónomo de tecnologías para mi carrera.
-- 🏓 Me encanta mucho jugar tenis de mesa.
+- ♞ Juego ajedrez y desafios de puzzle.
+- 💡En constante aprendizaje autónomo de tecnologías para mi carrera.
+- 🏓 Jugador en tenis de mesa.
 
 ## 💻 Habilidades Tecnológicas:
 <img src="https://github.com/user-attachments/assets/3682da8b-f729-45ae-afce-c3093f96a32e" title="Python" alt="Python" width="60" height="60"/>&nbsp;
