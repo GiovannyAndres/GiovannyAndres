@@ -31,7 +31,6 @@
 <img src="https://github.com/user-attachments/assets/34d19ebe-5966-468f-bc5e-274485814b7f" title="PowerBI" alt="PowerBI" width="60" height="60"/>&nbsp;
 <img src="https://github.com/user-attachments/assets/8824f726-7fe2-4567-8f7e-ec325f134e78" title="Excel" alt="Excel" width="60" height="60"/>&nbsp;
 <img src="https://github.com/user-attachments/assets/c977d268-e17f-4528-9b6e-51daaf90419d" title="Jupyter Notebook" alt="Jupyter Notebook" width="60" height="60"/>&nbsp;
-<img src="https://github.com/user-attachments/assets/1f3fdaa3-ca83-47df-ac05-2283c83e3ca4" title="Jupyter Notebook" alt="Jupyter Notebook" width="60" height="60"/>&nbsp;
 
 <p align="center">
   <img alt="banner" width="1000" height="250" src="https://github.com/user-attachments/assets/edfb01fe-f443-4723-bae1-8da8e9bc89e9">
