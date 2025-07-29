@@ -29,7 +29,7 @@
 <img src="https://github.com/user-attachments/assets/d9d375ee-ba1a-45f6-b510-7d2f30e1e98d" title="R" alt="R" width="60" height="60"/>&nbsp;
 <img src="https://github.com/user-attachments/assets/9ca289b0-2c09-41c5-a1ed-71b9ec01c67c" title="MatLab" alt="MatLab" width="60" height="60"/>&nbsp;
 <img src="https://github.com/user-attachments/assets/34d19ebe-5966-468f-bc5e-274485814b7f" title="PowerBI" alt="PowerBI" width="60" height="60"/>&nbsp;
-<img src="https://github.com/user-attachments/assets/8824f726-7fe2-4567-8f7e-ec325f134e78" title="Excel" alt="Excel" width="60" height="60"/>&nbsp;
+<img src="https://github.com/user-attachments/assets/bbbefcfd-7877-4b7d-819a-f8db15ab6731" title="Excel" alt="Excel" width="60" height="60"/>&nbsp;
 <img src="https://github.com/user-attachments/assets/c977d268-e17f-4528-9b6e-51daaf90419d" title="Jupyter Notebook" alt="Jupyter Notebook" width="60" height="60"/>&nbsp;
 
 <p align="center">
