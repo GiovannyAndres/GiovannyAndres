@@ -1,17 +1,18 @@
 <div style="text-align:center; margin:0; padding:0;">
-  <img alt="banner" width="1000" height="350" src="https://github.com/user-attachments/assets/44915716-8650-4536-b293-04ec9d3739dc">
-  <img alt="banner" width="1000" height="250" src="https://github.com/user-attachments/assets/ea242ad6-4358-44c8-8af7-efac4b027f77">
+  <img alt="banner" width="100%" height="350" src="https://github.com/user-attachments/assets/a2f109b9-ab9f-4c7c-be6d-e443acd67ddb">
+  <img alt="banner" width="100%" height="250" src="https://github.com/user-attachments/assets/c92e5f40-4f68-427d-9145-bcaeca542e94">
 </div>
 
-## Ingeniero de Sistemas y Analista de Datos 📊🔍
+## Systems Engineer & Data Analyst 📊🔍
 <img align="right" alt="Coding" width="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2kydXJ0em43dXR1aDM4andkNTluaWFqM3kxN2hibnI4eGVweThscyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
-¡Bienvenido a mi perfil de GitHub! Soy analista de datos con destreza formativa profesional en el manejo y limpieza de datos para la visualización de reportes de gran valor.
-#### *Algo sobre mí:*
-- 🧰 Tengo habilidades con herramientas de visualización de datos como Power BI, Excel, Tableau, Looker Studio, Matlab y los paquetes de R Plotly, ggplot2 & Shinny.
-- ♞ Juego ajedrez y desafios de puzzle.
-- 💡En constante aprendizaje autónomo de tecnologías para mi carrera.
-- 🏓 Jugador en tenis de mesa.
+Welcome to my GitHub profile! I'm a data analyst with a strong professional background in handling and cleaning data for the visualization of high-value reports.
+#### *About me:*
+- 🧰 I have skills in data visualization tools like Power BI, Excel, Tableau, Looker Studio, Matlab, and the R packages Plotly, ggplot2 & Shiny.
+- 📊 I use statistics to extract valuable information from data, interpret results, and make evidence-based decisions.
+- 💡 I am constantly learning new technologies for my career.
+- 🔍 I have the ability to design clear and effective visualizations that aid in decision-making.
+
 
 ## 💻 Habilidades Tecnológicas:
 <img src="https://github.com/user-attachments/assets/5c2c4d13-7acb-474a-bb75-0ad944008638" title="Python" alt="Python" width="60" height="60"/>&nbsp;
@@ -33,5 +34,5 @@
 <img src="https://github.com/user-attachments/assets/c977d268-e17f-4528-9b6e-51daaf90419d" title="Jupyter Notebook" alt="Jupyter Notebook" width="60" height="60"/>&nbsp;
 
 <p align="center">
-  <img alt="banner" width="1000" height="250" src="https://github.com/user-attachments/assets/edfb01fe-f443-4723-bae1-8da8e9bc89e9">
+  <img alt="banner" width="1000" height="250" src="https://github.com/user-attachments/assets/939fd228-5577-43c1-a586-d84faa1c5e7a">
 </p>
