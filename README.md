@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a data analyst with a strong professional back
 - 🔍 I have the ability to design clear and effective visualizations that aid in decision-making.
 
 
-## 💻 Habilidades Tecnológicas:
+## 💻 Tech Stack:
 <img src="https://github.com/user-attachments/assets/5c2c4d13-7acb-474a-bb75-0ad944008638" title="Python" alt="Python" width="60" height="60"/>&nbsp;
 <img src="https://github.com/user-attachments/assets/7f93929d-ea3d-402e-91d2-960dec9698ce" title="Git" alt="Git" width="60" height="60"/>&nbsp;
 <img src="https://github.com/user-attachments/assets/cdfe5cd7-a311-4ede-b112-0f2ddbbd5374" title="Linux" alt="Linux" width="60" height="60"/>&nbsp;
