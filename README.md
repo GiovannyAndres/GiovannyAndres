@@ -3,7 +3,7 @@
   <img alt="banner" width="100%" height="250" src="https://github.com/user-attachments/assets/c92e5f40-4f68-427d-9145-bcaeca542e94">
 </div>
 
-## Systems Engineer & Data Analyst 📊🔍
+# Systems Engineer & Data Analyst 📊🔍
 <img align="right" alt="Coding" width="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2kydXJ0em43dXR1aDM4andkNTluaWFqM3kxN2hibnI4eGVweThscyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 Welcome to my GitHub profile! I'm a data analyst with a strong professional background in handling and cleaning data for the visualization of high-value reports.
